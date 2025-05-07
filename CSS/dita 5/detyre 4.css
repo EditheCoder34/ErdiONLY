@@ -1,0 +1,105 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Arial', sans-serif;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #f5f5f5;
+}
+.resume-container {
+    display: flex;
+    width: 800px;
+    background: #fff;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+.sidebar {
+    width: 30%;
+    background: #222;
+    color: #fff;
+    padding: 30px;
+    text-align: center;
+}
+.sidebar img {
+    width: 100px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+.sidebar h2 {
+    font-size: 22px;
+    margin-bottom: 10px;
+}
+.sidebar p {
+    font-size: 14px;
+    margin-bottom: 20px;
+    color: #bbb;
+}
+.section-title {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 15px;
+    text-transform: uppercase;
+    border-bottom: 2px solid #fff;
+    padding-bottom: 5px;
+    display: inline-block;
+}
+#list {
+    text-align: left;
+    padding-left: 10px;
+    font-size: 14px;
+    text-align: right;
+}
+.main-content {
+    width: 70%;
+    padding: 40px;
+}
+.main-content h1 {
+    font-size: 28px;
+    font-weight: bold;
+}
+.main-content h3 {
+    font-size: 16px;
+    color: #666;
+    margin-bottom: 15px;
+    text-align: right;
+}
+.contact {
+    font-size: 14px;
+    margin-bottom: 20px;
+    color: #666;
+}
+.contact a {
+    color: #333;
+    text-decoration: none;
+    font-weight: bold;
+}
+.section {
+    margin-bottom: 30px;
+}
+.section h2 {
+    font-size: 22px;
+    font-weight: bold;
+    margin-bottom: 15px;
+    color: #222;
+}
+.jobtitle {
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+.jobdate {
+    font-size: 14px;
+    color: #666;
+    margin-bottom: 10px;
+}
+.jobdescription {
+    font-size: 14px;
+    color: #444;
+    line-height: 1.6;
+}

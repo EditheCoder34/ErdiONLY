@@ -1,0 +1,58 @@
+#p0{
+    font-family: "Noto Serif Telugu", serif;
+    font-style: italic;
+}
+#p1{
+    font-variant: small-caps;
+}
+#p3{
+    font-weight: bold;
+}
+#p4{
+    font-size: 4w;
+}
+#p5{
+    font: bold italic small-caps 10vw georgian;
+    width: 150px;
+}
+#p6{
+    font-family: "Anton", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+#p7{
+    font-family: "Pasicfico", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+#p8{
+    font-family: "Anton", sans-serif;
+    text-indent: 20px;
+    text-align: justify;
+    height: 250px;
+    width: 300px;
+}
+#p9{
+    color: aqua;
+    direction: rtl;
+}
+#p10{
+    text-indent: 20px;
+}
+#p11{
+    letter-spacing: 5px;
+    word-spacing: 15px;
+}
+#p12{
+    text-decoration: underline;
+}
+#p13{
+    text-transform: capitalize;
+}
+#p14{
+    text-transform: lowercase;
+}
+#p15{
+    font-size: 70px
+    text-shadow 5px 4px 7px red
+}

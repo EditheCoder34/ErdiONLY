@@ -1,0 +1,22 @@
+#divkry{
+border: 20px solid gray;
+padding:20px;
+width: 700px;
+margin: auto;
+}
+#p1{
+    color: lightskyblue;
+    text-transform: uppercase;
+    font-size: 15px;
+}
+#h1{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#p2{
+border-left:4px  solid lightskyblue;
+padding: 10px;
+font-family:"Noto Serif Telugu", serif;
+}
+#div2{
+    border-bottom: 3px solid gray
+}

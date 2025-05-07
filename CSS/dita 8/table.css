@@ -1,0 +1,42 @@
+#table1 {
+    border-collapse: separate;
+    border-spacing: 10px 10px;
+}
+#table1 td {
+    border: 1px solid black;
+    padding: 20px;
+    margin: 10px;
+}
+#table1 {
+    background-color: red;
+    width: 400px;
+    height: 40px;
+}
+#table2,
+.table2 {
+    margin-top: 50px;
+    border:1px solid black;
+    width: 400px;
+    height: 40px;
+    border-collapse: collapse;
+    text-align: center;
+    vertical-align: middle;
+}
+#table3,
+.table3 {
+    margin-top: 50px;
+    border-bottom: 1px solid black;
+    width: 400px;
+    height: 40px;
+    border-collapse: collapse;
+} 
+#table2 tr:nth-child(odd) {
+    background-color: blue;
+    color: red;
+}               
+.table2:hover{
+    background-color: red;
+}         
+.table3:hover{
+    background-color: red;
+}

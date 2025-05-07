@@ -1,0 +1,25 @@
+#p11{
+    border: 1px double darkred;
+    width: 100%;
+    height: auto;
+}
+#p1{
+    border: 5px double red;
+    max-width: 1000px;
+    max-width: 700px;
+    height: 100px;
+}
+#p2{
+    border: 5px double red;
+    max-height: 500px;
+    max-height: 200px;
+    width: 100px;
+    overflow: auto;
+}
+#p3{
+    border: 5px double red;
+    max-height: 150px;
+    max-height: 50px;
+    width: auto;
+    overflow: auto;
+}
